@@ -70,7 +70,7 @@ A couple of items to report
 
 ## 3 Sept 2025
 
-An individual PCB can now be ordered from [Tuc's Workbench](https://shop.tucs-workbench.com/products/trs-80-model-i-revision-k)
+*NO LONGER AVAILABLE* - An individual PCB can now be ordered from [Tuc's Workbench](https://shop.tucs-workbench.com/products/trs-80-model-i-revision-k)
 
 ## 1 Sept 2025
 
